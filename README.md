@@ -37,13 +37,21 @@ This tutorial outlines the prerequisites and installation of the open-source hel
    -Install / Enable IIS in Windows WITH CGI
    <br />
     -Right click on the start menu
+   <br />
     -Click Run
+   <br />
     -Type control for control Panel 
+   <br />
     -Click programs
+   <br />
     -Select turn windows features on or off
+   <br />
     -Go to internet information services (Check it to turn it on)
+   <br />
     -Expand it & Expand World Wide Web Services
+   <br />
     -Expand application developer
+   <br />
     -Check CGI & click ok
 </p>
 <br />

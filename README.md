@@ -34,7 +34,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/1U0L2m0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+   -Install / Enable IIS in Windows WITH CGI
+    -Right click on the start menu
+    -Click Run
+    -Type control for control Panel 
+    -Click programs
+    -Select turn windows features on or off
+    -Go to internet information services (Check it to turn it on)
+    -Expand it & Expand World Wide Web Services
+    -Expand application developer
+    -Check CGI & click ok
 </p>
 <br />
 

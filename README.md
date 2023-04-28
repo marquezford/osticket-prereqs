@@ -143,13 +143,13 @@ Download and Install C++ Redistributable (VC redist x86.exe).
 <img src="https://i.imgur.com/qpyk3rv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- - Click Start, Search IIS, Right Click it and Run as Admin.
+ - Click Start, Search IIS, Right Click it & Run as Admin.
    <br />
  - Register PHP in IIS (Select New PHP Version). 
    <br />
- - Browse for the PHP directory that was created earlier.
+ - Browse for the PHP Directory That Was Created Earlier.
    <br />
- - Click on PHP Directory, Select php-cgi & Click Open, Click Ok.
+ - Click on PHP Directory, Select php-cgi & Click open, Click ok.
    <br />
  - Restart the Web Server (Click vm-osticket Under Connections to the Left & Hit Restart on the Right Under Manage Server).
    <br />

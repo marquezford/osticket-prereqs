@@ -124,7 +124,10 @@ Download and Install C++ Redistributable (VC redist x86.exe).
 <img src="https://i.imgur.com/fZJ1GOy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Download and Install MySQL 5.5.62 (mysql-5.5.62-win32.msi).
+ - Download and Install MySQL 5.5.62 (mysql-5.5.62-win32.msi).
+   <br />
+ - Click Typical Install & Install
+   <br />
 </p>
 <br />
 

@@ -100,7 +100,7 @@ Creat a directory for PHP on the local hard drive.
 <img src="https://i.imgur.com/5MqPGla.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next download PHP.
+Next download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip).
 </p>
 <br />
 
@@ -116,7 +116,7 @@ Unzip the PHP contents into the PHP directory that you've just created.
 <img src="https://i.imgur.com/WG8lpSb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Download and Install C++ Redistributable (VC redist x86.exe).
 </p>
 <br />
 
@@ -124,7 +124,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/fZJ1GOy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Download and Install MySQL 5.5.62 (mysql-5.5.62-win32.msi).
 </p>
 <br />
 

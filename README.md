@@ -207,7 +207,7 @@ Download and Install C++ Redistributable (VC redist x86.exe).
 <img src="https://i.imgur.com/6Gqx8rj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
--Refresh the osTicket Site in Your Browser & Observe the Changes.
+- Refresh the osTicket Site in Your Browser & Observe the Changes.
 </p>
 <br />
 

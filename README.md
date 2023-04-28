@@ -68,7 +68,7 @@ Check the box next to CGI and click ok.
 <img src="https://i.imgur.com/9qZ94sL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Test if your web server is working. Open a new tab and type 127.0.0.1 which is the Local Host or Loopback.
 </p>
 <br />
 

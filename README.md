@@ -128,6 +128,14 @@ Download and Install C++ Redistributable (VC redist x86.exe).
    <br />
  - Click Typical Install & Install
    <br />
+ - Make sure Launch The MySQL Instance Configuration Wizard is checked & click finish.
+   <br />
+ - Setup your credentials ( Open a notepad and save it where you can find it later).
+   <br />
+   - Select standard Configuration, Click next, Set Password & user will be root.
+   <br />
+   - Leave everything else as is and Execute.
+   <br />
 </p>
 <br />
 

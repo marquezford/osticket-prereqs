@@ -164,7 +164,7 @@ Download and Install C++ Redistributable (VC redist x86.exe).
    <br />
    - Download osTicket v1.15.8
    <br />
-   - Extract & Copy "upload" foler to c:\inetpub\wwwroot
+   - Extract & Copy "upload" folder to c:\inetpub\wwwroot
    <br />
    - Within the c:\inetpub\wwwroot, Rename the "upload" folder to "osTicket"
    <br />

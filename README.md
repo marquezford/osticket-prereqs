@@ -217,8 +217,11 @@ Download and Install C++ Redistributable (VC redist x86.exe).
 <p>
 - Rename: ost-config.php
    - From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+   <br />
    - To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+   <br />
 - Assign Permissions: ost-config.php 
+   <br />
    - Right Click ost-config.php
    <br />
    - Click Properties

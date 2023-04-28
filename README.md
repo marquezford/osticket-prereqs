@@ -68,7 +68,7 @@ Check the box next to CGI and click ok.
 <img src="https://i.imgur.com/9qZ94sL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Test if your web server is working. Open a new tab and type 127.0.0.1 which is the Local Host or Loopback.
+Test if your web server is working. Open a new tab and try to run a webpage off yourself by typing 127.0.0.1(Local Host or Loopback) in the address bar.
 </p>
 <br />
 

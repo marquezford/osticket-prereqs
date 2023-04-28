@@ -175,7 +175,10 @@ Download and Install C++ Redistributable (VC redist x86.exe).
 <img src="https://i.imgur.com/W1bhx23.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Reload IIS (Restart).
+   <br />
+ - Go to sites -> Default -> osTicket (On the Right, Click "Browse *:80") & You Should See osTicket page.
+   <br />
 </p>
 <br />
 

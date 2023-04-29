@@ -282,7 +282,7 @@ Download and Install C++ Redistributable (VC redist x86.exe).
 <img src="https://i.imgur.com/jEFW59c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Enter all of the MySQL Info into the Corrrect Places & Click Install Now!
 </p>
 <br />
 
@@ -290,6 +290,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/az8unEL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Clean up stage (The Final Touches)
+   <br />
+   - Go to C:\inetpub\wwwroot\osTicket\setup (Delete the setup folder)
+   <br />
+   - Set permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+   <br />
+      * Remember that we changed the permissions to everyone so we'll change it so everyone can just read.
+   <br />
 </p>
 <br />

@@ -273,7 +273,7 @@ Download and Install C++ Redistributable (VC redist x86.exe).
    <br />
    - Connect to the Session
    <br />
-   - Create a Database Called "osTicket"
+   - Create a Database Called "osTicket" & Click ok
    <br />
 </p>
 <br />

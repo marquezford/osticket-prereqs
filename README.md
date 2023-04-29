@@ -259,10 +259,9 @@ Download and Install C++ Redistributable (VC redist x86.exe).
 </p>
 <p>
 - Download & Install HeidiSQL
-   - Open Heidi SQL
-   - Create a New Session, root/Password1
-   - Connect to the Session
-   - Create a Database Called "osTicket"
+   <br />
+- Open Heidi SQL
+<br />
 </p>
 <br />
 
@@ -270,7 +269,12 @@ Download and Install C++ Redistributable (VC redist x86.exe).
 <img src="https://i.imgur.com/crD1OMI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+   - Create a New Session, root/Password1
+   <br />
+   - Connect to the Session
+   <br />
+   - Create a Database Called "osTicket"
+   <br />
 </p>
 <br />
 
